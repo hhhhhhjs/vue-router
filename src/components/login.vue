@@ -8,5 +8,5 @@ export default{
 </script>
 
 <template>
-    <div>login</div>
+    <div>Login</div>
 </template>
